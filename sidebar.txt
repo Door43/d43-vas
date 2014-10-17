@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vas:home|Door43 (vas)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vas|d43-vas repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vas/archive/master.zip|d43-vas.zip]]
+
+**Recent Changes**
+{{changes>ns = vas}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vas|Ethnologue data]]
+
